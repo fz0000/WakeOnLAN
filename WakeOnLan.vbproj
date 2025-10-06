@@ -564,11 +564,6 @@
       <DependentUpon>OptionProperties.hu.resx</DependentUpon>
     </Compile>
     <Compile Include="Property\Countries.vb" />
-    <Compile Include="Property\OptionProperties.zh-CN.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>OptionProperties.zh-CN.resx</DependentUpon>
-    </Compile>
     <Compile Include="Report\ReportStrings.ro.Designer.vb">
       <DependentUpon>ReportStrings.ro.resx</DependentUpon>
       <AutoGen>True</AutoGen>
@@ -970,11 +965,7 @@
     <EmbeddedResource Include="Property\OptionProperties.ar-JO.resx" />
     <EmbeddedResource Include="Property\OptionProperties.es.resx" />
     <EmbeddedResource Include="Property\OptionProperties.it.resx" />
-    <EmbeddedResource Include="Property\OptionProperties.zh-CN.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>OptionProperties.zh-CN.Designer.vb</LastGenOutput>
-      <CustomToolNamespace>My.Resources</CustomToolNamespace>
-    </EmbeddedResource>
+    <EmbeddedResource Include="Property\OptionProperties.zh-CN.resx" />
     <EmbeddedResource Include="Property\Options.ar-JO.resx">
       <DependentUpon>Options.vb</DependentUpon>
     </EmbeddedResource>

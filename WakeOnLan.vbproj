@@ -921,6 +921,9 @@
     <EmbeddedResource Include="History.ru.resx">
       <DependentUpon>History.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="History.zh-CN.resx">
+      <DependentUpon>History.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="License.ar-JO.resx">
       <DependentUpon>License.vb</DependentUpon>
     </EmbeddedResource>
